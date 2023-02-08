@@ -7,8 +7,9 @@ Agricultural productivity is something on which our economy highly depends. This
 To  design  and  develop  a  smart  system  for  early  identification  and  control  of  weeds. Agricultural productivity is something on which our economy highly depends. This is the one of the reasons that disease detection in plants plays an important role in agriculture field. Insect pests are dangerous for the overall growth of the crops. Several Integrated Pest Management strategies have  been  tailored  for  the  effective  management  of  insect  pests  under  filed  condition.  Early detection of insect pest infestation to evolve suitable management techniques, therefore, would be an important step towards successful implementation of pest control strategies at appropriate time targeting the most vulnerable stage of the insect pest. The diagnosis of plant disease by computer vision using image processing methodology is a key for timely intervention and treatment of healthy agricultural procedure and to increase the yield by natural means.
 
 ## Aim of project 
- To develop 100% autonomous solution powered by rechargeable batteries/engine based to treat up to 10 ha/day. 
- Detect and classify weeds and spray pesticides according to the way required.  There is a need for device which is early detection of weed.  
+ To develop 100% autonomous solution powered by rechargeable batteries/engine based to treat up to 10 ha/day.
+ Detect and classify weeds and spray pesticides according to the way required.  
+There is a need for device which is early detection of weed.  
  Developing  algorithm  particularly  to  identify  the  weeds  which  are  specific  to  Indian agriculture. 
 
 ## Existing System 
