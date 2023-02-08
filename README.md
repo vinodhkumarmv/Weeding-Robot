@@ -24,10 +24,10 @@ The aim of the WEEDING ROBOT project is to design and develop an autonomous solu
 👉 To develop an algorithm specifically for identifying weeds that are specific to Indian agriculture
 
 #Existing System
-👉 Control through gesture-controlled wireless robots
-👉 Over-spraying of fertilizers in farmlands, leading to ecological imbalances and reduced crop yield
-👉 Lack of technology adoption among Indian farmers, who rely solely on their experience for predictions
-👉 Limited availability of applications, with only 'Plantix' being available, which is trained only for the US agriculture alliance and not for Indian agriculture.
+- 👉 Control through gesture-controlled wireless robots
+-👉 Over-spraying of fertilizers in farmlands, leading to ecological imbalances and reduced crop yield
+-👉 Lack of technology adoption among Indian farmers, who rely solely on their experience for predictions
+-👉 Limited availability of applications, with only 'Plantix' being available, which is trained only for the US agriculture alliance and not for Indian agriculture.
 
 #Conclusion
 The WEEDING ROBOT project offers an innovative solution to the problems faced by Indian farmers in controlling weeds effectively and sustainably. By using cutting-edge technology and an algorithm specifically tailored to Indian agriculture, the project has the potential to revolutionize weed control and improve the livelihoods of Indian farmers.
